@@ -1,6 +1,6 @@
-### Hi there, I'm Kadriye! 👋   <img src="./images/kadriyemacit.png" width = "300" height = "300" align = "center"> 
+### Hi there, I'm Bilgehan! 👋   <img src="./images/kadriyemacit.png" width = "300" height = "300" align = "center"> 
 
-### I'm a software engineer and i development mobile applications.   
+### I'm a software engineer and i development Web applications.   
 
 
 
@@ -10,8 +10,8 @@
 - 🌱 I’m currently learning Flutter, FinTech, Machine Learning, Swift. 
 - 💃🏻 I did 2 times erasmus. 🇵🇱🇵🇹 
 
-- 📫 How to reach me:    <a href="https://www.linkedin.com/in/kadriyemacit/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@kadriyemacit-blue?style=flat&logo=linkedin"></a>
-<a href="https://www.youtube.com/c/HelloWorldhere/" target="_blank"><img alt="Youtube" src="https://img.shields.io/badge/Youtube-@HelloWorldhere-red?style=flat&logo=youtube"></a>
+- 📫 How to reach me:    <a href="https://www.linkedin.com/in/bilgehan-bezir/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@bilgehanbezir-blue?style=flat&logo=linkedin"></a>
+<a href="" target="_blank"><img alt="Youtube" src="https://img.shields.io/badge/Youtube-@HelloWorldhere-red?style=flat&logo=youtube"></a>
   
 - 😄 Pronouns: Software Engineer
 - 💪🏼 Future Goals: Exploring new technologies and developing software solutions. - Never stop creating new ideas.
@@ -21,25 +21,25 @@
 
 <h4 align="center">Visitor's count :eyes:</h4>
 
-<p align="center"><img src="https://profile-counter.glitch.me/{KadriyeMacit}/count.svg" alt="KadriyeMacit :: Visitor's Count" /></p>
+<p align="center"><img src="https://profile-counter.glitch.me/{FlyTurtle61}/count.svg" alt="FlyTurtle61 :: Visitor's Count" /></p>
 
 
 <h4 align="center">Top langs 🔮</h4>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KadriyeMacit&langs_count=10&layout=compact" alt="KadriyeMacit :: Top Langs" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FlyTurtle61&langs_count=10&layout=compact" alt="FlyTurtle61 :: Top Langs" /></p>
 
 
 <h4 align="center">Profile stats :musical_keyboard:</h4>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=KadriyeMacit&show_icons=true&theme=synthwave" alt="AnhellO :: Profile Stats" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=FlyTurtle61&show_icons=true&theme=synthwave" alt="AnhellO :: Profile Stats" /></p>
 
 
-<!-- https://github.com/kadriyemacit/views this is a clone of the hits -->
+<!-- https://github.com/FlyTurtle61/views this is a clone of the hits -->
   <img alt="ViewCount" src="https://views.whatilearened.today/views/github/kadriyemacit/kadriyemacit.svg" />
   
   
 
-<a href="https://www.buymeacoffee.com/kadriyemacit" target="_blank">
+<a href="https://www.buymeacoffee.com/FlyTurtle61" target="_blank">
       <img width="18%" alt="Buy me a coffee" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/support-buy-coffee.png"/>
   </a>
   
