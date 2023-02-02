@@ -11,7 +11,7 @@
 - 💃🏻 I did 2 times erasmus. 🇵🇱🇵🇹 
 
 - 📫 How to reach me:    <a href="https://www.linkedin.com/in/bilgehan-bezir/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@bilgehanbezir-blue?style=flat&logo=linkedin"></a>
-<a href="" target="_blank"><img alt="Youtube" src="https://img.shields.io/badge/Youtube-@HelloWorldhere-red?style=flat&logo=youtube"></a>
+<a href="https://www.youtube.com/channel/UCmd16bN_WWv5K-KAsc0dukQ" target="_blank"><img alt="Youtube" src="https://img.shields.io/badge/Youtube-@HelloWorldhere-red?style=flat&logo=youtube"></a>
   
 - 😄 Pronouns: Software Engineer
 - 💪🏼 Future Goals: Exploring new technologies and developing software solutions. - Never stop creating new ideas.
@@ -45,7 +45,7 @@
   
   
 ---
-- I have a youtube channel with my friend. It's Hello World!  <a href="https://www.youtube.com/channel/UCPJJbWeR2r1Rs_FWQhsPaFw"><img src="./images/subscribe.png" width = "300" height = "100" align = "center"> </a>
+- I have a youtube channel with my friend. It's Hello World!  <a href="https://www.youtube.com/channel/UCmd16bN_WWv5K-KAsc0dukQ"><img src="./images/subscribe.png" width = "300" height = "100" align = "center"> </a>
 ---
 ## 𝗪𝗵𝗮𝘁 we have in our Youtube channel | Hello World 🌎
 
