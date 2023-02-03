@@ -36,4 +36,4 @@ Skills: C#/php/Laravel / Angular/ JS / HTML / CSS
       <img width="18%" alt="Buy me a coffee" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/support-buy-coffee.png"/>
   </a>
 
-  <h3>Thank you for visiting🙏</h3>
+  <h3 style="align-items:center;text-align:center;">Thank you for visiting🙏</h3>
