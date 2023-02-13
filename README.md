@@ -1,6 +1,7 @@
 ### Hi there 👋, my name is Bilgehan
 #### I am Full Stack Web Developer
-![I am Full Stack Web Developer](https://img.freepik.com/premium-vector/web-development-coding-programming-futuristic-banner-computer-code-laptop_3482-5572.jpg?w=2000)
+
+<img src="wallpaper.jpg" width="100%" height="350px">
 
 I'm Bilgehan from Turkey, and I am Full Stack Developer. I really enjoy learning languages and frameworks like Angular and Laravel, as well as work in WordPress. I also enjoy wireframing, ui, ux, and design in general. 
 
