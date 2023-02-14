@@ -15,42 +15,42 @@ Skills: C#/php/Laravel / Angular/ JS / HTML / CSS
 
 <html>
         <div>
-            <a href="https://www.facebook.com/bilgehan.bezir.5"
+            <a style="margin-left:8px;margin-right:3px;" href="https://www.facebook.com/bilgehan.bezir.5"
               ><img
                 src="images/facebook-ikon.png"
                 width="40px"
                 height="40px"
                 title="facebook"
             /></a>
-            <a href="https://www.instagram.com/bezirrrr/"
+            <a style="margin-left:8px;margin-right:3px;" href="https://www.instagram.com/bezirrrr/"
               ><img
                 src="images/instagram-ikon.png"
                 width="40px"
                 height="40px"
                 title="instagram"
             /></a>
-            <a href="https://twitter.com/GARGARAMEL01"
+            <a style="margin-left:8px;margin-right:3px;" href="https://twitter.com/GARGARAMEL01"
               ><img
                 src="images/twitter-ikon.png"
                 width="40px"
                 height="40px"
                 title="twitter"
             /></a>
-            <a href="https://www.linkedin.com/in/bilgehan-bezir/"
+            <a style="margin-left:8px;margin-right:3px;" href="https://www.linkedin.com/in/bilgehan-bezir/"
               ><img
                 src="images/linkedin.png"
                 width="40px"
                 height="40px"
                 title="linkedin"
             /></a>
-            <a href="https://www.youtube.com/channel/UCmd16bN_WWv5K-KAsc0dukQ"
+            <a style="margin-left:8px;margin-right:3px;" href="https://www.youtube.com/channel/UCmd16bN_WWv5K-KAsc0dukQ"
               ><img
                 src="images/youtube-ikon.png"
                 width="40px"
                 height="40px"
                 title="youtube"
             /></a>
-            <a href="https://github.com/FlyTurtle61"
+            <a style="margin-left:8px;margin-right:3px;" href="https://github.com/FlyTurtle61"
               ><img
                 src="images/github-ikon.png"
                 width="40px"
