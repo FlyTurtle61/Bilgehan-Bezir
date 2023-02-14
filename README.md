@@ -1,11 +1,7 @@
 ### Hi there 👋, my name is Bilgehan
 #### I am Full Stack Web Developer
 
-<html>
-
-<body>
-
-<img src="images/wallpaper.jpg" width="100%" height="500px">
+<img src="wallpaper.jpg" width="100%" height="500px">
 
 I'm Bilgehan from Turkey, and I am Full Stack Developer. I really enjoy learning languages and frameworks like Angular and Laravel, as well as work in WordPress. I also enjoy wireframing, ui, ux, and design in general. 
 
@@ -17,66 +13,51 @@ Skills: C#/php/Laravel / Angular/ JS / HTML / CSS
 - 💪🏼 Future Goals: Exploring new technologies and developing software solutions. - Never stop creating new ideas.
 
 
-
+<html>
         <div>
-
             <a href="https://www.facebook.com/bilgehan.bezir.5"
               ><img
-                
                 src="images/facebook-ikon.png"
                 width="40px"
                 height="40px"
                 title="facebook"
             /></a>
-
             <a href="https://www.instagram.com/bezirrrr/"
               ><img
-                
                 src="images/instagram-ikon.png"
                 width="40px"
                 height="40px"
                 title="instagram"
             /></a>
-
             <a href="https://twitter.com/GARGARAMEL01"
               ><img
-                
                 src="images/twitter-ikon.png"
                 width="40px"
                 height="40px"
                 title="twitter"
             /></a>
-
             <a href="https://www.linkedin.com/in/bilgehan-bezir/"
               ><img
-                
                 src="images/linkedin.png"
                 width="40px"
                 height="40px"
                 title="linkedin"
             /></a>
-
             <a href="https://www.youtube.com/channel/UCmd16bN_WWv5K-KAsc0dukQ"
               ><img
-                
                 src="images/youtube-ikon.png"
                 width="40px"
                 height="40px"
                 title="youtube"
             /></a>
-
             <a href="https://github.com/FlyTurtle61"
               ><img
-                
                 src="images/github-ikon.png"
                 width="40px"
                 height="40px"
-                title="youtube"
+                alt="youtube"
             /></a>
-
           </div>
-
-          
 
 <h4 align="center">Visitor's count :eyes:</h4>
 
@@ -101,7 +82,3 @@ Skills: C#/php/Laravel / Angular/ JS / HTML / CSS
   </a>
 
   <h3>Thank you for visiting🙏</h3>
-
-</body>
-
-</html>
