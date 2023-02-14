@@ -1,6 +1,10 @@
 ### Hi there 👋, my name is Bilgehan
 #### I am Full Stack Web Developer
 
+<html>
+
+<body>
+
 <img src="images/wallpaper.jpg" width="100%" height="500px">
 
 I'm Bilgehan from Turkey, and I am Full Stack Developer. I really enjoy learning languages and frameworks like Angular and Laravel, as well as work in WordPress. I also enjoy wireframing, ui, ux, and design in general. 
@@ -13,7 +17,7 @@ Skills: C#/php/Laravel / Angular/ JS / HTML / CSS
 - 💪🏼 Future Goals: Exploring new technologies and developing software solutions. - Never stop creating new ideas.
 
 
-<body>
+
         <div>
 
             <a href="https://www.facebook.com/bilgehan.bezir.5"
@@ -72,7 +76,7 @@ Skills: C#/php/Laravel / Angular/ JS / HTML / CSS
 
           </div>
 
-          </body>
+          
 
 <h4 align="center">Visitor's count :eyes:</h4>
 
@@ -97,3 +101,7 @@ Skills: C#/php/Laravel / Angular/ JS / HTML / CSS
   </a>
 
   <h3>Thank you for visiting🙏</h3>
+
+</body>
+
+</html>
