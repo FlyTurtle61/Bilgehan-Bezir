@@ -58,7 +58,7 @@
 
 </style>
 
-<img src="wallpaper.jpg" width="100%" height="500px">
+<img src="images/wallpaper.jpg" width="100%" height="500px">
 
 I'm Bilgehan from Turkey, and I am Full Stack Developer. I really enjoy learning languages and frameworks like Angular and Laravel, as well as work in WordPress. I also enjoy wireframing, ui, ux, and design in general. 
 
