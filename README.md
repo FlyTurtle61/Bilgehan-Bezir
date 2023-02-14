@@ -1,63 +1,6 @@
 ### Hi there 👋, my name is Bilgehan
 #### I am Full Stack Web Developer
 
-<html>
-
-<style>
-
-#social-icon {
-    background: rgba(0, 0, 0, 0.891);
-    border: solid rgb(233, 228, 228) 2px;
-    border-radius: 20px;
-    width: 500px;
-    height: 50px;
-
-    display: flex;
-    justify-content: center;
-    align-items: center;
-}
-
-#social-icon a {
-    display: flex;
-    flex-direction: row;
-    transition: 0.5s ease;
-    user-select: none;
-}
-
-#social-icon a .icon {
-    margin: 4px;
-    opacity: 0.8;
-    transform: scale(0.8);
-}
-
-#social-icon a .icon:hover {
-    opacity: 1;
-    border-radius: 90%;
-    transform: scale(1);
-}
-
-#social-icon a:nth-child(1) .icon:hover {
-    background: rgb(8, 0, 117);
-}
-
-#social-icon a:nth-child(2) .icon:hover {
-    background: rgb(255, 72, 0);
-}
-
-#social-icon a:nth-child(3) .icon:hover {
-    background: rgb(0, 157, 255);
-}
-
-#social-icon a:nth-child(4) .icon:hover {
-    background: rgb(21, 0, 138);
-}
-
-#social-icon a:nth-child(5) .icon:hover {
-    background: rgb(223, 0, 0);
-}
-
-</style>
-
 <img src="images/wallpaper.jpg" width="100%" height="500px">
 
 I'm Bilgehan from Turkey, and I am Full Stack Developer. I really enjoy learning languages and frameworks like Angular and Laravel, as well as work in WordPress. I also enjoy wireframing, ui, ux, and design in general. 
@@ -71,65 +14,62 @@ Skills: C#/php/Laravel / Angular/ JS / HTML / CSS
 
 
 
+        <div>
 
-  <body>
-        <div id="social-icon">
-            <a href=""
+            <a href="https://www.facebook.com/bilgehan.bezir.5"
               ><img
-                class="icon"
+                
                 src="images/facebook-ikon.png"
                 width="40px"
                 height="40px"
-                alt="facebook"
+                title="facebook"
             /></a>
-            <a href=""
+
+            <a href="https://www.instagram.com/bezirrrr/"
               ><img
-                class="icon"
+                
                 src="images/instagram-ikon.png"
                 width="40px"
                 height="40px"
-                alt="instagram"
+                title="instagram"
             /></a>
-            <a href=""
+
+            <a href="https://twitter.com/GARGARAMEL01"
               ><img
-                class="icon"
+                
                 src="images/twitter-ikon.png"
                 width="40px"
                 height="40px"
-                alt="twitter"
+                title="twitter"
             /></a>
-            <a href=""
+
+            <a href="https://www.linkedin.com/in/bilgehan-bezir/"
               ><img
-                class="icon"
+                
                 src="images/linkedin.png"
                 width="40px"
                 height="40px"
-                alt="linkedin"
+                title="linkedin"
             /></a>
-            <a href=""
+
+            <a href="https://www.youtube.com/channel/UCmd16bN_WWv5K-KAsc0dukQ"
               ><img
-                class="icon"
+                
                 src="images/youtube-ikon.png"
                 width="40px"
                 height="40px"
-                alt="youtube"
+                title="youtube"
             /></a>
-            <a href=""
+
+            <a href="https://github.com/FlyTurtle61"
               ><img
-                class="icon"
+                
                 src="images/github-ikon.png"
                 width="40px"
                 height="40px"
-                alt="youtube"
+                title="youtube"
             /></a>
-            <a href=""
-              ><img
-                class="icon"
-                src="images/game-ikon.png"
-                width="40px"
-                height="40px"
-                alt="youtube"
-            /></a>
+
           </div>
 
 <h4 align="center">Visitor's count :eyes:</h4>
@@ -155,7 +95,3 @@ Skills: C#/php/Laravel / Angular/ JS / HTML / CSS
   </a>
 
   <h3>Thank you for visiting🙏</h3>
-
-</body>
-
-</html>
