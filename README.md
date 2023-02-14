@@ -1,17 +1,6 @@
 ### Hi there 👋, my name is Bilgehan
 #### I am Full Stack Web Developer
 
-<img src="wallpaper.jpg" width="100%" height="500px">
-
-I'm Bilgehan from Turkey, and I am Full Stack Developer. I really enjoy learning languages and frameworks like Angular and Laravel, as well as work in WordPress. I also enjoy wireframing, ui, ux, and design in general. 
-
-Skills: C#/php/Laravel / Angular/ JS / HTML / CSS
---- 
-- 👩🏻‍💻 I’m currently working on my own projects
-- 🌱 I’m currently learning Angular/C# 
-- 😄 Pronouns: Full Stack Developer 
-- 💪🏼 Future Goals: Exploring new technologies and developing software solutions. - Never stop creating new ideas.
-
 <html>
 
 <style>
@@ -68,6 +57,20 @@ Skills: C#/php/Laravel / Angular/ JS / HTML / CSS
 }
 
 </style>
+
+<img src="wallpaper.jpg" width="100%" height="500px">
+
+I'm Bilgehan from Turkey, and I am Full Stack Developer. I really enjoy learning languages and frameworks like Angular and Laravel, as well as work in WordPress. I also enjoy wireframing, ui, ux, and design in general. 
+
+Skills: C#/php/Laravel / Angular/ JS / HTML / CSS
+--- 
+- 👩🏻‍💻 I’m currently working on my own projects
+- 🌱 I’m currently learning Angular/C# 
+- 😄 Pronouns: Full Stack Developer 
+- 💪🏼 Future Goals: Exploring new technologies and developing software solutions. - Never stop creating new ideas.
+
+
+
 
   <body>
         <div id="social-icon">
