@@ -13,7 +13,7 @@ Skills: C#/php/Laravel / Angular/ JS / HTML / CSS
 - 💪🏼 Future Goals: Exploring new technologies and developing software solutions. - Never stop creating new ideas.
 
 
-
+<body>
         <div>
 
             <a href="https://www.facebook.com/bilgehan.bezir.5"
@@ -71,6 +71,8 @@ Skills: C#/php/Laravel / Angular/ JS / HTML / CSS
             /></a>
 
           </div>
+
+          </body>
 
 <h4 align="center">Visitor's count :eyes:</h4>
 
