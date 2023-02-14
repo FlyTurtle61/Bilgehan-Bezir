@@ -11,9 +11,123 @@ Skills: C#/php/Laravel / Angular/ JS / HTML / CSS
 - 🌱 I’m currently learning Angular/C# 
 - 😄 Pronouns: Full Stack Developer 
 - 💪🏼 Future Goals: Exploring new technologies and developing software solutions. - Never stop creating new ideas.
----
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/FlyTurtle61)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/bilgehan-bezir//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/bilgehan.bezir.5)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/bezirrrr//)[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/https://www.youtube.com/channel/UCmd16bN_WWv5K-KAsc0dukQ)  
----
+
+<html>
+
+<style>
+
+#social-icon {
+    background: rgba(0, 0, 0, 0.891);
+    border: solid rgb(233, 228, 228) 2px;
+    border-radius: 20px;
+    width: 500px;
+    height: 50px;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#social-icon a {
+    display: flex;
+    flex-direction: row;
+    transition: 0.5s ease;
+    user-select: none;
+}
+
+#social-icon a .icon {
+    margin: 4px;
+    opacity: 0.8;
+    transform: scale(0.8);
+}
+
+#social-icon a .icon:hover {
+    opacity: 1;
+    border-radius: 90%;
+    transform: scale(1);
+}
+
+#social-icon a:nth-child(1) .icon:hover {
+    background: rgb(8, 0, 117);
+}
+
+#social-icon a:nth-child(2) .icon:hover {
+    background: rgb(255, 72, 0);
+}
+
+#social-icon a:nth-child(3) .icon:hover {
+    background: rgb(0, 157, 255);
+}
+
+#social-icon a:nth-child(4) .icon:hover {
+    background: rgb(21, 0, 138);
+}
+
+#social-icon a:nth-child(5) .icon:hover {
+    background: rgb(223, 0, 0);
+}
+
+</style>
+
+  <body>
+        <div id="social-icon">
+            <a href=""
+              ><img
+                class="icon"
+                src="images/facebook-ikon.png"
+                width="40px"
+                height="40px"
+                alt="facebook"
+            /></a>
+            <a href=""
+              ><img
+                class="icon"
+                src="images/instagram-ikon.png"
+                width="40px"
+                height="40px"
+                alt="instagram"
+            /></a>
+            <a href=""
+              ><img
+                class="icon"
+                src="images/twitter-ikon.png"
+                width="40px"
+                height="40px"
+                alt="twitter"
+            /></a>
+            <a href=""
+              ><img
+                class="icon"
+                src="images/linkedin.png"
+                width="40px"
+                height="40px"
+                alt="linkedin"
+            /></a>
+            <a href=""
+              ><img
+                class="icon"
+                src="images/youtube-ikon.png"
+                width="40px"
+                height="40px"
+                alt="youtube"
+            /></a>
+            <a href=""
+              ><img
+                class="icon"
+                src="images/github-ikon.png"
+                width="40px"
+                height="40px"
+                alt="youtube"
+            /></a>
+            <a href=""
+              ><img
+                class="icon"
+                src="images/game-ikon.png"
+                width="40px"
+                height="40px"
+                alt="youtube"
+            /></a>
+          </div>
 
 <h4 align="center">Visitor's count :eyes:</h4>
 
@@ -38,3 +152,7 @@ Skills: C#/php/Laravel / Angular/ JS / HTML / CSS
   </a>
 
   <h3>Thank you for visiting🙏</h3>
+
+</body>
+
+</html>
