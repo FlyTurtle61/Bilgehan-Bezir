@@ -3,13 +3,13 @@
 
 <img src="images/wallpaper.jpg" width="100%" height="500px">
 
-I'm Bilgehan from Turkey, and I am Full Stack Developer. I really enjoy learning languages and frameworks like Angular and Laravel, as well as work in WordPress. I also enjoy wireframing, ui, ux, and design in general. 
+I'm Bilgehan from Turkey, and I am Full Stack Developer. I really enjoy learning languages and frameworks like Angular and Laravel. I also enjoy web design in general. 
 
-Skills: C#/php/Laravel / Angular/ JS / HTML / CSS
+Skills: C#/.Net/Php/Laravel/HTML/CSS/JS/Angular/MsSql
 --- 
 - 👩🏻‍💻 I’m currently working on my own projects
 - 🌱 I’m currently learning Angular/C# 
-- 😄 Pronouns: Full Stack Developer 
+- 😄 Pronouns: Full Stack Web Developer 
 - 💪🏼 Future Goals: Exploring new technologies and developing software solutions. - Never stop creating new ideas.
 
 
