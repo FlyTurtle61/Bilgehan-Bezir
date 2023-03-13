@@ -12,7 +12,10 @@ Skills: C#/Asp.Net/Php/Laravel/HTML/CSS/JS/Angular/React/Sql/Git
 - 😄 Pronouns: Full Stack Web Developer 
 - 💪🏼 Future Goals: Exploring new technologies and developing software solutions. - Never stop creating new ideas.
 
+<head>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.3.0/css/all.min.css" integrity="sha512-SzlrxWUlpfuzQ+pcUCosxcglQRNAq/DZjVsC0lE40xsADsfeQoEypE+enwcOiGjk/bSuGGKHEyjSoQ1zVisanQ==" crossorigin="anonymous" referrerpolicy="no-referrer" />
 
+</head>
 <html>
         <div align="center">
     <a href="https://www.facebook.com/bilgehan.bezir.5"><i title="facebook" style="font-size: 30px;color: white;" class="fab fa-facebook"></i></a>
