@@ -3,7 +3,7 @@
 
 <img src="images/wallpaper.jpg" width="100%" height="500px">
 
-I'm Bilgehan from Turkey, and I am Full Stack Developer. I really enjoy learning languages and frameworks like Angular and Laravel, as well as work in WordPress. I also enjoy wireframing, ui, ux, and design in general. 
+I'm Bilgehan from Turkey, and I am Full Stack Developer. I really enjoy learning languages and frameworks like Angular and Laravel. I also enjoy web design in general. 
 
 Skills: C#/Asp.Net/Php/Laravel/HTML/CSS/JS/Angular/React/Sql
 --- 
