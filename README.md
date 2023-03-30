@@ -5,7 +5,7 @@
 
 I'm Bilgehan from Turkey, and I am Full Stack Developer. I really enjoy learning languages and frameworks like Angular,React,Asp.Net,Laravel... I also enjoy web design in general. 
 
-Skills: C#/Asp.Net/Php/Laravel/HTML/CSS/JS/Angular/React/Sql
+Skills: C#/Asp.Net core/Php/Laravel/HTML/CSS/JS/React.js/MsSql,MySql,Git
 --- 
 - 👩🏻‍💻 Full time learner.
 - 🌱 I’m currently learning React / Asp.net 
@@ -15,43 +15,43 @@ Skills: C#/Asp.Net/Php/Laravel/HTML/CSS/JS/Angular/React/Sql
 
 <html>
         <div align="center">
-            <a href="https://www.facebook.com/bilgehan.bezir.5"
-              ><img
+            <a href="https://www.facebook.com/bilgehan.bezir.5">
+            <img
                 src="images/facebook-ikon.png"
                 width="40px"
                 height="40px"
                 title="facebook"
             /></a>
-            <a href="https://www.instagram.com/bezirrrr/"
-              ><img
+            <a href="https://www.instagram.com/bezirrrr/">
+            <img
                 src="images/instagram-ikon.png"
                 width="40px"
                 height="40px"
                 title="instagram"
             /></a>
-            <a href="https://twitter.com/GARGARAMEL01"
-              ><img
+            <a href="https://twitter.com/GARGARAMEL01">
+            <img
                 src="images/twitter-ikon.png"
                 width="40px"
                 height="40px"
                 title="twitter"
             /></a>
-            <a href="https://www.linkedin.com/in/bilgehan-bezir/"
-              ><img
+            <a href="https://www.linkedin.com/in/bilgehan-bezir/">
+            <img
                 src="images/linkedin.png"
                 width="40px"
                 height="40px"
                 title="linkedin"
             /></a>
-            <a href="https://www.youtube.com/channel/UCmd16bN_WWv5K-KAsc0dukQ"
-              ><img
+            <a href="https://www.youtube.com/channel/UCmd16bN_WWv5K-KAsc0dukQ">
+            <img
                 src="images/youtube-ikon.png"
                 width="40px"
                 height="40px"
                 title="youtube"
             /></a>
-            <a href="https://github.com/FlyTurtle61"
-              ><img
+            <a href="https://github.com/FlyTurtle61">
+            <img
                 src="images/github-ikon.png"
                 width="40px"
                 height="40px"
@@ -69,7 +69,7 @@ Skills: C#/Asp.Net/Php/Laravel/HTML/CSS/JS/Angular/React/Sql
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FlyTurtle61&langs_count=10&layout=compact" alt="FlyTurtle61 :: Top Langs" /></p>
 
 
-<h4 align="center">Profile stats :musical_keyboard:</h4>
+<h4 align="center">Profile stats 🎸</h4>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=FlyTurtle61&show_icons=true&theme=synthwave" alt="AnhellO :: Profile Stats" /></p>
 
