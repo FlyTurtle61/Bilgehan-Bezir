@@ -14,7 +14,9 @@ I'm Bilgehan from Turkey. I am Software Engineer and my profession is Full Stack
 
 ##### MY Computer Skills: 
 [![My Skills](https://skillicons.dev/icons?i=ae,codepen,docker,github,ai,netlify,ps,powershell,stackoverflow,vscode,visualstudio)](https://skillicons.dev)
+
 <hr>
+
 <h4 align="center">My Social Media Links 🔗</h4>
 <p align="center">
 <a href="https://www.facebook.com/bilgehan.bezir.5" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/2021_Facebook_icon.svg/2048px-2021_Facebook_icon.svg.png" width="40" height="40" title="facebook"></a>
@@ -25,12 +27,15 @@ I'm Bilgehan from Turkey. I am Software Engineer and my profession is Full Stack
 <a href="https://open.spotify.com/user/01wlg4rrw64rl1sw8ydyyaz2v" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Spotify_icon.svg/1982px-Spotify_icon.svg.png" width="40" height="40" title="spotify"></a>
 <a href="https://discord.gg/zXFJfARAHH" target="_blank"> <img src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0a6a49cf127bf92de1e2_icon_clyde_blurple_RGB.png" width="40" height="40" title="discord"></a>
 </p>
+
 <h4 align="center">Visitor's count 👀</h4>
 <p align="center"> <img src="https://profile-counter.glitch.me/{FlyTurtle61}/count.svg" alt="FlyTurtle61 :: Visitor's Count" /> <p>
+
 <h4 align="center">Top langs 🔮</h4>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FlyTurtle61&&layout=compact&langs_count=8" alt="FlyTurtle61 :: Top Lang"></p>
+
 <h4 align="center">Profile stats 🎸</h4>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=FlyTurtle61&theme=synthwave&show_icons=true" alt="FlyTurtle61 :: Profile stats"></p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=FlyTurtle61&theme=graywhite &show_icons=true" alt="FlyTurtle61 :: Profile stats"></p>
 
 <h4 align="center">My Records 🌟</h4>
 <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=FlyTurtle61&" alt="FlyTurtle61 :: My Records"></p>
