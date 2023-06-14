@@ -31,6 +31,10 @@ I'm Bilgehan from Turkey. I am Software Engineer and my profession is Full Stack
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FlyTurtle61&&layout=compact&langs_count=8" alt="FlyTurtle61 :: Top Lang"></p>
 <h4 align="center">Profile stats 🎸</h4>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=FlyTurtle61&theme=synthwave&show_icons=true" alt="FlyTurtle61 :: Profile stats"></p>
+
+<h4 align="center">My Records 🌟</h4>
+<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=FlyTurtle61&" alt="FlyTurtle61 :: My Records"></p>
+
 <p align="center">
 <a href="https://www.buymeacoffee.com/FlyTurtle61" target="_blank">
       <img width="18%" alt="Buy me a coffee" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/support-buy-coffee.png"/>
